@@ -3,6 +3,10 @@
 Купить доступ:https://funpay.com/lots/offer?id=68553922
 ---
 
+---
+[Готовый конфиг для 1920x1080](blob:https://github.com/0ece0551-dae4-48a2-95e6-cb2103eef590)
+---
+
 # 📖 Руководство по использованию - Fishing Bot
 
 ---
