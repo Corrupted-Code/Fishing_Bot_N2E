@@ -1,4 +1,8 @@
 # Fishing_Bot O(∩_∩)O
+---
+Купить доступ:https://funpay.com/lots/offer?id=68553922
+---
+
 # 📖 Руководство по использованию - Fishing Bot
 
 ---
