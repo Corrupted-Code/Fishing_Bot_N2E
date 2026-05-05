@@ -3,7 +3,9 @@
 Купить доступ:https://funpay.com/lots/offer?id=68553922
 ---
 
-[Готовый конфиг для 1920x1080](https://github.com/Corrupted-Code/Fishing_Bot_N2E/blob/main/fishing_bot_settings.json)
+[Готовый конфиг для 1920x1080](https://github.com/Corrupted-Code/Fishing_Bot_N2E/blob/main/configs/1920x1080/fishing_bot_settings.json)
+[Готовый конфиг для 2560x1440](https://github.com/Corrupted-Code/Fishing_Bot_N2E/blob/main/configs/2560x1440/fishing_bot_settings.json)
+
 
 Его нужно положить **в папку с программой**!
 
