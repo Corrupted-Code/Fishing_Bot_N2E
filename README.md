@@ -4,6 +4,7 @@
 ---
 
 [Готовый конфиг для 1920x1080](https://github.com/Corrupted-Code/Fishing_Bot_N2E/blob/main/configs/1920x1080/fishing_bot_settings.json)
+
 [Готовый конфиг для 2560x1440](https://github.com/Corrupted-Code/Fishing_Bot_N2E/blob/main/configs/2560x1440/fishing_bot_settings.json)
 
 
