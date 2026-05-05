@@ -4,6 +4,7 @@
 ---
 
 [Готовый конфиг для 1920x1080](https://github.com/Corrupted-Code/Fishing_Bot_N2E/blob/main/fishing_bot_settings.json)
+
 Его нужно положить **в папку с программой**!
 
 # 📖 Руководство по использованию - Fishing Bot
