@@ -7,6 +7,8 @@
 
 # 📖 Руководство по использованию - Fishing Bot
 
+ [RU](https://github.com/Corrupted-Code/Fishing_Bot_N2E/blob/main/README.md) [EN](https://github.com/Corrupted-Code/Fishing_Bot_N2E/blob/main/README_EN.md)
+
 ---
 
 ## Шаг 1. Запуск
