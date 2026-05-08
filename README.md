@@ -3,8 +3,6 @@
 Купить доступ:https://funpay.com/lots/offer?id=68553922
 ---
 
-## Готовые конфиги доступны в бета версии, ничего вручную ставить не нужно - смотрите Шаг 9.
-
 # 📖 Руководство по использованию - Fishing Bot
 
  [RU](https://github.com/Corrupted-Code/Fishing_Bot_N2E/blob/main/README.md) [EN](https://github.com/Corrupted-Code/Fishing_Bot_N2E/blob/main/README_EN.md)
@@ -14,8 +12,6 @@
 ## Шаг 1. Запуск
 
 Запускай `FishingBot.exe` **от имени Администратора** (правая кнопка → «Запуск от имени администратора»).
-
---Авто-обновления не будут работать если папка в которой находится FishingBot на кириллице.
 
 > Без прав администратора DirectInput не сможет посылать нажатия клавиш в игру.
 
