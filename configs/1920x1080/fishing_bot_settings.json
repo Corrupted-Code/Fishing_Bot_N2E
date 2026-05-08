@@ -13,7 +13,7 @@
   "kp": 0.81,
   "kd": 0.06,
   "win_title": "NTE",
-  "bar_delay": 0.8,
+  "bar_delay": 0.6,
   "confirm_delay": 1.5,
   "input_method": "auto",
   "ring_points": "0.316,0.337; 0.296,0.694; 0.519,0.905; 0.822,0.671",
@@ -27,9 +27,9 @@
   "hsv_ds": 38,
   "hsv_dv": 43,
   "yellow_hsv_h": 28,
-  "yellow_hsv_s": 86,
-  "yellow_hsv_v": 254,
-  "yellow_hsv_dh": 6,
-  "yellow_hsv_ds": 62,
-  "yellow_hsv_dv": 42
+  "yellow_hsv_s": 192,
+  "yellow_hsv_v": 212,
+  "yellow_hsv_dh": 5,
+  "yellow_hsv_ds": 40,
+  "yellow_hsv_dv": 25
 }
