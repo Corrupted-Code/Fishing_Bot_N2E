@@ -31,5 +31,22 @@
   "yellow_hsv_v": 252,
   "yellow_hsv_dh": 5,
   "yellow_hsv_ds": 40,
-  "yellow_hsv_dv": 35
+  "yellow_hsv_dv": 35,
+  "bait_enabled": true,
+  "bait_every_n": 98,
+  "bait_shop_x": 1401,
+  "bait_shop_y": 989,
+  "bait_pick_x": 153,
+  "bait_pick_y": 226,
+  "bait_max_x": 1730,
+  "bait_max_y": 950,
+  "bait_buy_x": 1539,
+  "bait_buy_y": 1027,
+  "bait_confirm_x": 1102,
+  "bait_confirm_y": 703,
+  "bait_delay_shop": 1500,
+  "bait_delay_pick": 1500,
+  "bait_delay_max": 1500,
+  "bait_delay_buy": 1500,
+  "bait_delay_confirm": 1500
 }
