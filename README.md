@@ -32,7 +32,7 @@
 
 ## Шаг 3. Главный интерфейс
 
-<img width="1260" height="743" alt="image" src="https://github.com/user-attachments/assets/17443c73-5891-4b07-aaba-9902fe82c026" />
+<img width="1261" height="744" alt="{ED92AB61-1AE5-4981-9010-1E32A13F3B1A}" src="https://github.com/user-attachments/assets/fd025f87-2b04-46d4-9b53-51b97b75e51c" />
 
 Интерфейс состоит из нескольких секций:
 
