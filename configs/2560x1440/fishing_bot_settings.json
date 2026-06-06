@@ -14,7 +14,7 @@
   "kd": 0.06,
   "win_title": "NTE",
   "bar_delay": 0.6,
-  "confirm_delay": 2,
+  "confirm_delay": 3,
   "input_method": "auto",
   "ring_points": "0.388,0.843; 0.561,0.896; 0.727,0.823",
   "red_ring_points": "0.50,0.08; 0.92,0.50; 0.50,0.92; 0.08,0.50",
